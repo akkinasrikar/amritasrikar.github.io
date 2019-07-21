@@ -1,0 +1,68 @@
+<body>
+<head>
+<style type="text/css">
+body
+{ background:url("blue.jpg");
+  background-size:cover;
+  background-attachment:fixed;
+  color:white;}
+  .rounded{
+   width:300px;
+   margin:auto;}
+  .rounded img{
+   border-radius:50%;}
+ .contact{
+   postion:absolute;
+   top:50%;
+   left:50%;
+   -webkit-transform:translate(87%,0%);
+    transform:translate(87%,0%);
+   width:500px;
+   height:650px;
+   padding:80px 40px;
+   background:rgba(0,0,0,0.6);}
+ .contact input{
+   font-size=500px;
+   width:100%;
+   margin-bottom:20px;}
+ .contact input[type="email"],
+ .contact input[type="phone no"]{
+  border:none;
+  border-bottom: 1px solid #fff;
+  background:transparent;
+  outline:none;
+  height:35px;
+  color:#fff;
+  font-size=500px;
+}
+ .contact button[type="submit"]{
+ height:30px;
+ width:500px;
+ font-size:15px;
+ background:red;
+ cursor:pointer;
+ border-radius:25px;
+ border:none;}
+ .contact input[type="checkbox"]
+{ width:20%;}
+
+</style>
+</head>
+<body>
+<div class="contact">
+<center>
+<div class="rounded">
+<img src="avatar.jpg"width="300px" height="300px" ><br>
+</div>
+</center>
+<h3><font color="white" size="5">Email</font><h3>
+<input type="email" placeholder="amrita@email.com"><br>
+<h3><font color="white" size="5">phone no</font></h3>
+<input type="phone no" placeholder="enter phone no"></br>
+<p><input type="checkbox">remember me</p><br>
+<form action="step1.html">
+<button type="submit" value="sign in"><font size="5">submit</font></button><br>
+</form>
+</div>
+</body>
+</html>

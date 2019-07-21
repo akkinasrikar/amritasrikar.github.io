@@ -1,0 +1,302 @@
+<html>
+
+<head>
+  <title>amrita vishwa vidyapeetam</title>
+  <style type="text/css">
+    body {
+      background: url("abc.jpg");
+      background-size: cover;
+      background-attachment: fixed;
+      color: white;
+    }
+
+    .rounded {
+      width: 300px;
+      margin: auto;
+    }
+
+    .rounded img {
+      border-radius: 50%;
+    }
+
+    .dropshadow {
+      text-shadow: #4444 30px 10px 3px;
+    }
+
+    #border_radius {
+      border: 0px solid;
+      font-size: 10px;
+      color: white;
+      font-weight: bold;
+      padding: 10px;
+      background: #c71585;
+      border-radius: 1px;
+      -webkit-border-radius: 1000px;
+    }
+
+    #border_radius1 {
+      border: 0px solid;
+      font-size: 10px;
+      color: white;
+      font-weight: bold;
+      padding: 10px;
+      background: red;
+      border-radius: 1px;
+      -webkit-border-radius: 1000px;
+    }
+
+    button[type="submit"] {
+      height: 100px;
+      width: 300px;
+      font-size: 15px;
+      background: red;
+      cursor: pointer;
+      border-radius: 25px;
+      border: none;
+    }
+
+    p {
+      font-size: 22px;
+    }
+
+    img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .dropmenu ul{
+      list-style: none;
+      border-radius: 20px;
+      font-size: 20px;
+      font-weight: bold;
+      text-decoration: none;
+        position: relative;
+    }
+    .dropmenu ul li{
+      background-color:  #c71585;
+      width:150px;
+      height:50px;
+      line-height: 50px;
+      text-align: center;
+      border:0px solid white;
+      float: left;
+      border-radius: 50px;
+      color: white;
+      text-decoration: none;
+        position: relative;
+    }
+    .dropmenu ul li:hover{
+      background-color:red;
+      cursor: pointer;
+      text-decoration: none;
+        position: relative;
+    }
+      .dropmenu ul li{
+        margin: 40px;
+        padding: 0px;
+        text-decoration: none;
+            position: relative;
+
+      }
+      .dropmenu ul ul li{
+        margin: 0px;
+        padding: 0px;
+        text-decoration: none;
+            position: relative;
+
+      }
+      .dropmenu ul ul{
+        display: none;
+        text-decoration: none;
+            position: relative;
+      }
+      .dropmenu ul li:hover >ul{
+        display: block;
+        text-decoration: none;
+            position: relative;
+          }
+
+  </style>
+</head>
+
+<body>
+  <div id="border_radius">
+    <div class="dropshadow">
+      <h1 align="center">
+        <font size="25">AMRITA VISHWA VIDYAPEETAM</font>
+      </h1>
+    </div>
+  </div>
+  <div class="dropshadow">
+    <h1 align="center">
+      <font color="#FF1493" size="20"><img src="logo.png">2019</font>
+    </h1><br>
+  </div>
+  <div class="rounded">
+    <img src="mata.jpg" width="300px" height="300px">
+  </div><br>
+  <center>
+  <div class="dropmenu">
+    <ul>
+      <li>Campuses
+        <ul>
+          <li>Amritapuri</font></li>
+          <li>Bengaluru</li>
+          <li>Coimbatore</li>
+          <li>Chennai</li>
+          <li>kochi</li>
+          <li>Mysore</li>
+        </ul>
+      </li>
+      <li>Admissions
+        <ul>
+          <li>B.Tech</li>
+          <li>M.Tech</li>
+          <li>MBA</li>
+          <li>Mass communication</li>
+          <li>Biosciences</li>
+          <li>Health sciences</li>
+          <li>Arts sciences</li>
+          <li>Philosophy</li>
+          <li>Nan sciences</li>
+          <li>MCA</li>
+          <li>PH.D</li>
+          <li>Visual communication</li>
+        </ul>
+      </li>
+
+      <li>research
+        <ul>
+          <li>Centers</li>
+          <li>News</li>
+          <li>Patents</li>
+          <li>Projects</li>
+          <li>publication</li>
+        </ul>
+      </li>
+      <li>About
+        <ul>
+          <li>Rankings</li>
+          <li>Accredation</li>
+          <li>Chancellor</li>
+          <li>Newsletters</li>
+          <li>press media</li>
+          <li>leadership</li>
+        </ul>
+      </li>
+      <li>Academics
+        <ul>
+          <li>Programs</li>
+          <li>curriculum</li>
+        </ul>
+      </li>
+      <li>International
+        <ul>
+          <li>Student exchange Programs</li>
+          <li>Dual degree Programs</li>
+          <li>Undergraduate Programs</li>
+          <li>postgraduate Programs</li>
+          <li>integrated degree Programs</li>
+          <li>live in labs@</li>
+          <li>Student intenship Program</li>
+        </ul>
+      </li>
+
+  </div>
+</center><br>
+  <div class="contact">
+    <p><br><br><br>
+      <font color="white">AMRITA
+        RANKINGS<br><br>
+
+
+
+
+
+
+        In the 12th edition of the annual rankings released, Amrita Vishwa Vidyapeetham has been placed in the list of 601-800 category. The ranking features universities in 70 countries and seventeen Indian higher education institutions have
+        featured in the list of the world's best universities. The rankings are partly based on publication, citation data and key performance indicators relating to research, teaching, knowledge transfer and international activity. Amrita Vishwa
+        Vidyapeetham is the only Private Indian University according to Times Higher Education BRICS University Rankings. Amrita Vishwa Vidyapeetham is No. 1 in International Outlook according to Times Higher Education BRICS. Read More
+
+
+        601�800th<br>
+        World University Rankings 2019<br>
+
+        201-250th<br>
+        Young University Rankings 2018<br>
+
+        141<br>
+        BRICS & Emerging Economies Rankings 2019<br>
+
+        Amrita Vishwa Vidyapeetham is Top Private Indian University according to QS BRICS University Rankings, a ranking of the top universities in the five BRICS countries (Brazil, Russia, India, China and South Africa). Amrita Vishwa Vidyapeetham
+        is No. 1 in International Faculty according to QS BRICS University Rankings. Amrita Vishwa Vidyapeetham personifies multi-disciplinary academic excellence through the exceptional quality of its education system that is modern and
+        comprehensive, with special emphasis on core human values. All the schools are approved by the All India Council for Technical Education (AICTE). The course curriculum is credit-based, and the syllabus is industry and research oriented. Read
+        More<br>
+
+
+
+        801�1000th<br>
+        World University Rankings 2019<br>
+
+
+        168th<br>
+        BRICS University Rankings 2019<br>
+        Mata Amritanandamayi - The Guiding Light of Amrita Vishwa Vidyapeetham
+
+        A renowned humanitarian leader and spiritual teacher, Sri Mata Amritanandamayi is the guiding light of Amrita Vishwa Vidyapeetham. Amma�s concept of education, stress on research and commitment to instilling universal values have come
+        together to shape Amrita Vishwa Vidyapeetham into an institution where the latest advancements and discoveries combine with compassion and service-mindedness. As Mata Amritanandamayi said in 2010 when the State University of New York honored
+        her with an honorary Doctorate in Humane Letters: �It is Amma�s prayer that we develop the expansive-mindedness to embrace both scientific knowledge and spiritual wisdom. We can no longer afford to see these two streams of knowledge as
+        flowing in opposite directions. In truth, they complement one another. If we merge these streams, we will find that we are able to create a mighty river�a river whose waters can remove suffering and spread life to all of humanity.�
+
+        Aside from serving as the Chancellor of Amrita Vishwa Vidyapeetham, Mata Amritanandamayi also runs the vast humanitarian mission known as the Mata Amritanandamayi Math, the headquarters of which is home to one of Amrita Vishwa Vidyapeetham�s
+        five campuses. A world-renowned institution, the Mata Amritanandamayi Math has built more than 45,000 homes for the homeless poor throughout India, is currently providing scholarships for more than 46,000 impoverished children, and has helped
+        more than one lakh poverty-stricken women form self-help groups, and much more.
+
+        Mata Amritanandamayi is also a spiritual guide and teacher to millions throughout the world, giving people through her teachings and emotional support the strength to face the challenges of life with peace and mental equanimity. Her days are
+        spent receiving thousands, placing men, women and children on her shoulder, addressing their concerns and instilling in them the confidence and inner strength to move forward in life. In this manner, more than 34 million people have come to
+        Amma for her darshan</font>
+    </p>
+    <div>
+      <div id="border_radius">
+        <h2 align="center">
+          <font size="15">Campuses:</font>
+        </h2>
+      </div><br>
+      <div id="border_radius">
+        <h2 align="center">
+          <font size="15">Amritapuri</font>
+        </h2><br>
+      </div>
+      <a href="amritapuri.html"><img src="a.jpg" border="0" alt="am"></a><br>
+      <div id="border_radius">
+        <h2 align="center">
+          <font size="15">Bengaluru</font>
+          </2><br>
+      </div>
+      <a href="bengaluru.html"><img src="ba.jpg" border="0" alt="bm"></a><br>
+      <div id="border_radius">
+        <h2 align="center">
+          <font size="15">Chennai</font>
+        </h2><br>
+      </div>
+      <a href="chennai.html"><img src="c.jpg" border="0" alt="cm"></a><br>
+      <div id="border_radius">
+        <h2 align="center">
+          <font size="15">Coimbatore</font>
+        </h2><br>
+      </div>
+      <a href="coimbatore.html"><img src="co.jpg" border="0" alt="com"></a><br>
+      <form action="apply.html">
+        <button type="submit">
+          <font color="white" size="30">APPLY NOW</font>
+        </button><br>
+      </form>
+      <a href="fee.html">
+        <font color="white" size="25">click here to check the fees</font>
+      </a><br>
+      <center><iframe width="560" height="360" align="center" src="https://www.youtube.com/embed/KMMsjA_On8E" frameborder="30" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+        <br>
+        <iframe width="560" height="360" src="https://www.youtube.com/embed/q7Xv8Zqz9p0" frameborder="10" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+</body>
+
+</html>

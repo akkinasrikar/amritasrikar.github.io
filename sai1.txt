@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>Amritapuri campus</title>
+<style>
+body{
+  background: url("abc1.jpg");
+  background-size:cover;
+  background-attachment: fixed;
+  color:white;}
+  .dropshadow{text-shadow:#4444 30px 10px 3px;}
+   #border_radius
+  {border:0px solid;
+   font-size:10px;
+   color:white;
+   font-weight:bold;
+   padding:10px;
+   background:#c71585;
+   border-radius:1px;
+   -webkit-border-radius:100px;}
+  button[type="submit"]{
+ border-radius:50px;
+  background: green;
+  color:white;}
+  p{ font-size: 22px;}
+  img {
+         display:block;
+         margin-left:auto;
+         margin-right:auto;}
+</style>
+</head>
+<body>
+<div id="border_radius">
+<div class="dropshadow">
+<h1 align="center"><font size="15">AMRITAPURI</font></h1><br></div>
+</div>
+<img src="a1.jpg" border="0" atl="a1"><br>
+<p><font color="black" size="15">Nestled in the picturesque village of Vallikavu, across the beautiful and famed backwaters of Kerala, is Amrita Vishwa Vidyapeetham's Amritapuri campus, blending into the natural setting of the environment with its endless stretches of coconut palm groves. The Arabian Sea that borders Kerala on the west is only a few hundred meters from the campus.
+
+Located close to the international headquarters of the Mata Amritanandamayi Math, the campus provides a learning environment that harmoniously blends science and spirituality. Students have a unique opportunity to nurture values and self-discipline. Over 90% of the students reside in hostels on campus.
+
+Attracted by its pristine beauty and the campus's emphasis on technical excellence, students are drawn from just around the corner as well as from far across the globe. Eminent academicians and corporate professionals share their knowledge and experiences with the students and help them apply their theoretical knowledge to real-life projects. Academic counselors mentor the students, acting as their friend, philosopher and guide.<br>
+<img src="a3.jpg"><br>
+<img src="a2.jpg"><br>
+
+
+All Schools and Research Centers on campus are committed to generating, disseminating and preserving knowledge. They seek to develop in each member of the campus, the ability and passion to work wisely, creatively and effectively for the betterment of humanity. Numerous seminars, discussions and debates help enhance the quest for knowledge.
+
+Although located in a remote village blessed with panoramic backwater expanses and tiny glistening brooks on the one side and the mighty sea on the other side, all modern amenities which go to make campus life memorable, are provided. There is a well-stocked library, cafeterias and sports facilities. A culture of enthusiastically celebrating festivals and other events makes life on campus stimulating. Spread over 80 acres of land, the campus has over a million square feet of built-up area comprising of academic blocks, student hostels and other amenities.
+
+Distinguished professors and scholars share their knowledge and experiences with the students. The campus provides all modern amenities from playgrounds to cafeterias.</font></p><br>
+<center>
+<iframe width="560" height="560" src="https://www.youtube.com/embed/f5hsi0VfxqM" frameborder="10" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3939.6707088930866!2d76.48866541473498!3d9.093731593475997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b0602e7b4a2049d%3A0x3af3246b5138db0f!2sAmrita+Vishwa+Vidyapeetham%2C+Vallikkavu!5e0!3m2!1sen!2sin!4v1561200827128!5m2!1sen!2sin" width="600" height="450" frameborder="59" style="border:50" allowfullscreen></iframe></p>
+</center><br>
+<h2 align="left"><font color="#FF1493" size="20">contact us:</font></h2><br>
+<h3 align="left"><font color="white" size="15">+91-8953245642</font></h3><br>
+<h3 align="left"><font color="white" size="15">+91-7953453320</font></h3><br>
+<form action="amrita.html">
+<button type="submit"><font color="white" size="20">Back</font></button><br>
+</form>
+</body>
+</html>

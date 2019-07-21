@@ -1,0 +1,58 @@
+<html>
+<head>
+<title>bengaluru campus</title>
+<style type="text/css">
+body
+{ background:url("abc2.jpg");
+  background-size:cover;
+  background-attachment:fixed;
+  color: white;}
+  .dropshadow{text-shadow:#4444 30px 10px 3px;}
+  #border_radius
+  {border:0px solid;
+   font-size:10px;
+   color:white;
+   font-weight:bold;
+   padding:10px;
+   background:#c71585;
+   border-radius:1px;
+   -webkit-border-radius:1000px;}
+  button[type="submit"]{
+  background: green;
+  color:white;}
+  p{ font-size: 22px;}
+  img {
+         display:block;
+         margin-left:auto;
+         margin-right:auto;}
+</style>
+</head>
+<body>
+<div id="border_radius">
+<div class="dropshadow">
+<h1 align="center"><font size="15">BENGALURU</font></h1><br></div>
+</div>
+<img src="b1.jpg"><br>
+<p><font color="white" size="15">The Amrita School of Engineering, Bengaluru offers B. Tech. programs in five disciplines and M. Tech. programs in six disciplines. The school seeks to prepare graduates with a solution-mindset and with a high degree of ethical standards. Recruiters from the best companies and institutes in India and abroad seek out these students.
+
+Curriculum is framed with extensive industry input. All programs are credit-based. Departments are equipped with modern laboratories, design tools and software packages. Emphasis is laid on continuous evaluation of students.Faculty serve as class advisors and mentors to students.
+
+bengaluru-campus-students-img<br>
+<img src="b2.jpg"><br>
+The school has a faculty strength of nearly one hundred and fifty. Several faculty have come to Amrita with rich experience from leading organizations and universities. The school traces its roots to the Amrita Institute of Technology & Science that was started in 2002 with a vision to produce quality engineers with an attitude of service, for the benefit of the society and nation.
+
+Affiliated then to the Visveswaraiah Technological University, Belgaum, the school is today one of the fifteen constituent schools of Amrita Vishwa Vidyapeetham as per Section 3 of UGC Act, 1956. Highly-qualified and experienced faculty members, state-of-the-art facilities and the extensive industry-academia interaction all serve to make engineering education at Amrita’s Bengaluru campus a unique and enriching experience.
+</font></p>
+<img src="b3.jpg"><br>
+<center>
+<iframe width="560" height="360" src="https://www.youtube.com/embed/ArD-fu7KmBM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.205478760872!2d77.67289511482123!3d12.894504990906483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae13479f912c41%3A0x5919577ad754c73e!2sAmrita+School+of+Engineering!5e0!3m2!1sen!2sin!4v1561264627038!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><br>
+</center>
+<h2 align="left"><font color="darkpink" size="20">Contact us:</font></h2><br>
+<h3 align="left"><font color="white" size="15">+91-3457690001</font></h3><br>
+<h3 align="left"><font color="white" size="15">+91-3459870002</font></h3><br>
+<form action="amrita.html">
+<button type="submit"><font color="white" size="20">Back</font></button></br>
+</form>
+</body>
+</html>
