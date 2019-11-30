@@ -1,0 +1,51 @@
+create table employee1
+(em_no varchar(10),
+ empname char(20),
+ age number(2),
+ designation char(20),
+ city char(10),
+ gender char(10),
+ salary number(8));
+ 
+desc employee1;
+
+insert into employee1 values(100,'charlie',35,'datascientist','banglore','male',200000);
+insert into employee1 values(101,'ellie',28,'javadevloper','chennai','female',60000);
+insert into employee1 values(102,'camilla',30,'MLengineer','hyderabad','female',100000);
+insert into employee1 values(103,'alan',32,'programmer','newdelhi','male',50000);
+insert into employee1 values(104,'avicil',31,'datamining','chennai','male',80000);
+insert into employee1 values(105,'sentdex',28,'aiengineer','banglore','male',250000);
+insert into employee1 values(106,'sia',33,'mlengineer','chennai','female',80000);
+
+select * from employee1;
+select empname from employee1;
+select empname,salary from employee1;
+select * from employee1 where(age>30);
+select empname from employee1 where(age=28);
+select empname,age,salary from employee1 where(gender='female' and salary>50000 and salary<100000 );
+select * from employee1 where(city != 'banglore');
+
+update employee1 set salary=95000 where(empname='avicil');
+
+
+
+alter table employee1 ADD exp number(2);
+
+alter table employee1 drop column exp;
+
+delete from employee1 where(empname='sia');
+
+
+select empname from employee1 where((gender='male' and age>40) or (gender='female' and age<35));
+select age from employee1 where(city='banglore' and salary<50000);
+select * from employee1;
+update employee1 set em_no=106 where( em_no=105);
+alter table employee1 add ( phone_no number(10)); 
+update employee1 set phone_no=7702449945 where(em_no=100);
+delete from employee1 where(empname='ellie'); 
+select unique designation from employee1;
+select * from employee1 where (designation != 'datamining');
+select * from employee1 where (city='banglore' or gender='male');
+update employee1 set city='silicon' where (city='banglore');
+
+
